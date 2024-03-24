@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
+
+header {
+    background-color: #f8f8f8;
+    padding: 20px 0;
+    color: black;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    font-size: xx-large;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 80px;
+    color: rgb(109, 175, 2);
+}
+
+p {
+    font-size: xx-large;
+    color: black;
+    font-weight: 600;
+}
+
+#home {
+    background-image: url(./truck4.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+
+}
+
+#hom {
+    padding: 0%;
+    line-height: 0;
+}
+
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 18px;
+} 
+   
