@@ -56,9 +56,9 @@ nav ul li a {
 }
 
 #image1 {
-    /* padding-bottom: 30px;
-    padding-top: 30px; */
-   
+    padding-bottom: 30px;
+    padding-top: 30px;
+   justify-content: baseline;
 }
 
 #image2 {
@@ -130,4 +130,4 @@ footer {
         width: 100%;
     }
 
-/* } */ */ */
+/* } */ 
